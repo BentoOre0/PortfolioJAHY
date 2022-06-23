@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jeremy Yu's portfolio
 
 You can use the [editor on GitHub](https://github.com/BentoOre0/PortfolioJAHY/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Object detection research paper with Tristan Ng and Anis Bejleri 2022
+[Link](https://docs.google.com/document/d/1CiUnPSdDkSrfAgqrQUvfxQ-J1CTWGE-q0D89I4sQ2j8/edit?usp=sharing)
+
 ## Header 2
 ### Header 3
 
@@ -25,6 +27,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
