@@ -1,3 +1,1 @@
-**MY PORTFOLIO**
-abcdefg
-*abcde*
+#Here is research paper based on image detection. It was made with the help of InspiritAI. Click [Here](https://docs.google.com/document/d/1CiUnPSdDkSrfAgqrQUvfxQ-J1CTWGE-q0D89I4sQ2j8/edit?usp=sharing) for the link
